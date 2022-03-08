@@ -1,0 +1,24 @@
+{
+  "name": "contactbook_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhoaLe1601/Lab1_2-B1906498.git"
+  },
+  "author": "Khoa Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhoaLe1601/Lab1_2-B1906498/issues"
+  },
+  "homepage": "https://github.com/KhoaLe1601/Lab1_2-B1906498#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
